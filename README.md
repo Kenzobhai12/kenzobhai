@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SINAN KENZO" src="https://img.shields.io/badge/KENZO-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Kenzobhai12"><img title="Author" src="https://img.shields.io/badge/Author-Kenzobhai12/kenzobhai?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/Kenzobhai12">Kenzobhai12</a> to m
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/trzkenzo?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -57,7 +57,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click kenzobhai logo to Join Support Group 2👇
+Click kenzobhai logo to Join Support Group 👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/LHGDAVI1qAA6BhSrT5frqB" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -123,7 +123,7 @@ By establishing the kenzobhai, you are deemed to have accepted these responsibil
     
   [![Kenzobhai12](https://github.com/Kenzobhai12.png?size=100)](https://github.com/Kenzobhai12) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/Kenzobhai12) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[KENZOBHAI](https://github.com/Kenzobhai12) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
